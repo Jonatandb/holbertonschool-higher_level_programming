@@ -7,3 +7,5 @@ This repo contains projects of the second trimester of Holberton’s Software En
 
 First project in Python to understand it’s syntax, how works the Python Interpreter and how to print and slice strings.
 
+
+# Sincronizar una bifurcación: [https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/syncing-a-fork](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
